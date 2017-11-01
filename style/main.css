@@ -1,0 +1,31 @@
+body{
+  font-size: 10px;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  margin: 1rem;
+}
+
+ul, li {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.button {
+  font-size: 1.2rem;
+  height: 2rem;
+  width: 80%;
+  display: block;
+  margin: 1rem;
+}
+
+.highlight {
+  background: #0c99d5;
+}
+
+.white {
+  background: white;
+}
