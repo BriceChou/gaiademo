@@ -1,0 +1,26 @@
+{
+  "name": "GaiaDemo",
+  "description": "A Hello World application",
+  "type": "certified",
+  "launch_path": "/index.html",
+  "icons": {
+    "16": "/style/icons/icon16x16.png",
+    "48": "/style/icons/icon48x48.png",
+    "60": "/style/icons/icon60x60.png",
+    "128": "/style/icons/icon128x128.png"
+  },
+  "default_locale": "en-US",
+  "permissions": {
+    "settings": {}
+  },
+  "locales": {
+      "en-US": {
+        "name": "GaiaDemo",
+        "description": "Gaia demo app"
+      }
+    },
+  "developer": {
+    "name": "Mingliang ZHOU",
+    "url": "https://github.com/BriceChou/GaiaDemo"
+  }
+}
