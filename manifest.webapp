@@ -1,5 +1,5 @@
 {
-  "name": "GaiaDemo",
+  "name": "gaiademo",
   "description": "A Hello World application",
   "type": "certified",
   "launch_path": "/index.html",

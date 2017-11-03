@@ -37,6 +37,7 @@ module.exports = {
     ]
   },
   plugins: [
-    new ExtractTextPlugin("style.css")
+    new ExtractTextPlugin("style.css"),
+    new webpack.optimize.CommonsChunkPlugin('vendors', 'vendors.js')
   ]
 };
